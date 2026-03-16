@@ -1,0 +1,34 @@
+role: "senior_consultant_presenting_to_the_board"
+context: "Ontwikkel een brongetrouw slide deck dat uitlegt wat OpenClaw is, hoe OpenClaw werkt, welke business opportuniteiten OpenClaw biedt en welke risico's bij het gebruik van OpenClaw gepaard gaan."
+topic: "OpenClaw - Autonome AI-agent"
+audience: "AI Consultants"
+style_profile: "Geen"
+language: "Dutch"
+length: "Generate a slide deck of exactly 6 slides"
+content_type: "educatief materiaal"
+source_fidelity: "Gebruik uitsluitend de geuploade bronnen en voeg geen externe informatie toe"
+narrative_flow:
+  - "Aankondiging - nieuwe innovatie"
+  - "Kenmerken van de innovatie"
+  - "Werking van de innovatie"
+  - "Opportuniteiten voor de business"
+  - "Risico's voor de business"
+outline:
+  - "OpenClaw"
+  - "Een autonome AI-agent"
+  - "Architectuur - Overzicht"
+  - "Architectuur - Componenten"
+  - "Risico's"
+  - "Vragen, suggesties, opportuniteiten, risico's ?"
+style_guidelines:
+  - "schrijf in het Nederlands"
+  - "Kawaii"
+  - "geef prioriteit aan witruimte boven decoratie"
+  - hex_colors: ["#ffa500", "#000000"]
+  - footer: "i-LUDUS - Inspire to Innovate"
+mandatory_elements:
+  - "Plaats op elke slide, zonder uitzondering, linksonder exact deze footertekst: \"i-LUDUS - Inspire to Innovate\"."
+  - "Laat geen enkele slide zonder deze footer en wijzig de tekst of positie niet."
+visual_hierarchy:
+  - "title_first"
+  - "witruimte krijgt voorrang op decoratie"

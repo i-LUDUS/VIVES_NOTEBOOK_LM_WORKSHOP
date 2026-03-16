@@ -1,0 +1,38 @@
+role: "senior_consultant_presenting_to_the_board"
+context: "Ontwikkel een brongetrouw slide deck dat uitlegt wat OpenCode is en hoe deze gebruikers AI-agents in OpenCode kunnen creëren en configureren."
+topic: "OpenCode - open-source AI-programmeertool"
+audience: "AI Consultants"
+style_profile: "Geen"
+language: "Dutch"
+length: "Generate a slide deck of exactly 9 slides"
+content_type: "educatief materiaal"
+source_fidelity: "Gebruik uitsluitend de geuploade bronnen en voeg geen externe informatie toe"
+narrative_flow:
+  - "Aankondiging - nieuwe innovatie"
+  - "Kenmerken van de innovatie"
+  - "Werking van de innovatie"
+  - "Toegevoegde waarde voor de business"
+  - "Opportuniteiten"
+outline:
+  - "OpenCode"
+  - "OpenCode is een AI programmeertool"
+  - "AI-agenten in OpenCode"
+  - "STAP 1 - De Plan-modus"
+  - "STAP 2 - De Build-modus"
+  - "Extra AI-agenten creëren en configureren"
+  - "Voorbeeld - de DPIA-agent"
+  - "Een nieuwe asset - Bibliotheken van agenten"
+  - "Vragen, opmerkingen, suggesties, opportuniteiten ?"
+style_guidelines:
+  - "schrijf in het Nederlands"
+  - "Kawaii"
+  - "geef prioriteit aan witruimte boven decoratie"
+  - "Geef dit logo op elke slide rechtsbovenaan weer in de header van elke slide: https://tse3.mm.bing.net/th/id/OIP.HhfNgzLfgrnZUG6EZWJZKgHaI6?rs=1&pid=ImgDetMain&o=7&rm=3"
+  - hex_colors: ["#ffa500", "#000000"]
+  - footer: "i-LUDUS - Inspire to Innovate"
+mandatory_elements:
+  - "Plaats op elke slide, zonder uitzondering, linksonder exact deze footertekst: \"i-LUDUS - Inspire to Innovate\"."
+  - "Laat geen enkele slide zonder deze footer en wijzig de tekst of positie niet."
+visual_hierarchy:
+  - "title_first"
+  - "witruimte krijgt voorrang op decoratie"
